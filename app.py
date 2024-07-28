@@ -261,7 +261,6 @@ def classify(sentence, show_details=False):
 
 
 
-
     response_health = ["So nice of you to ask, I'm good.",
                        "I'm fit and fine.",
                        "I am good. Thank You!",
